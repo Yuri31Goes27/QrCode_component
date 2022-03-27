@@ -29,17 +29,19 @@ main#container{
     justify-content: center;
     align-items: center;
     
+    
 }
 div#box{
     height: 450px;
-    width: 250px;
+    width: 300px;
     padding: 10px 15px 2px 15px;
     border-radius: 10px;
     background-color:var(--cor01);
+    box-shadow: 1px rgba(0, 0, 0, 0.329) ;
     
 }
 div#box > img {
-   height: 55%;
+   height: 65%;
    border-radius: 10px;
    
 }
